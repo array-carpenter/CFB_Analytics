@@ -7,3 +7,6 @@ Various College Football plots
 ### 02 Bo Nix
 <img src="https://github.com/qmaclean/CFB_Analytics/blob/main/oregon_football_02/Bo_nix_ducks.png" width="100%" />
 
+### 03 Historical Oregon Playmakers
+<img src="https://github.com/qmaclean/CFB_Analytics/blob/main/oregon_football_03/Oregon_playmaker.png" width="100%" />
+
