@@ -5,5 +5,5 @@ Various College Football plots
 <img src="https://github.com/qmaclean/CFB_Analytics/blob/main/oregon_football_01/UO%20Offense.png" width="100%" />
 
 ### 02 Bo Nix
-<img src="[https://github.com/qmaclean/CFB_Analytics/blob/main/oregon_football_01/UO%20Offense.png](https://github.com/qmaclean/CFB_Analytics/blob/main/oregon_football_02/Bo_nix_ducks.png)" width="100%" />
+<img src="https://github.com/qmaclean/CFB_Analytics/blob/main/oregon_football_02/Bo_nix_ducks.png" width="100%" />
 
