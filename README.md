@@ -13,5 +13,8 @@ Various College Football plots
 ### RSAA_22 -  Top Rushing Success Above Average in 2022
 <img src="https://github.com/qmaclean/CFB_Analytics/blob/main/RSAA_22/Top_Rushers.jpeg" width="100%" />
 
-### 04 - Power 5 QB EPA Distribution
+### 04 - QB EPA Distribution
 <img src="https://github.com/qmaclean/CFB_Analytics/blob/main/qb_epa_distribution_04/epa_distribution_cfb.png" width="100%" />
+
+<img src="https://github.com/qmaclean/CFB_Analytics/blob/main/qb_epa_distribution_04/group_of_5_pass_epa.png" width="100%" />
+
