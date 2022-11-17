@@ -18,3 +18,10 @@ Various College Football plots
 
 <img src="https://github.com/qmaclean/CFB_Analytics/blob/main/qb_epa_distribution_04/group_of_5_pass_epa.png" width="100%" />
 
+### CFB Team EPA Comparison
+<img width="1438" alt="Screen Shot 2022-11-07 at 6 14 25 AM" src="https://user-images.githubusercontent.com/20390351/202491454-27c74e7a-922e-47ea-8294-15e46ed1aca8.png">
+
+<img width="1431" alt="Screen Shot 2022-11-07 at 6 16 54 AM" src="https://user-images.githubusercontent.com/20390351/202491503-d2e7a221-aa76-43a3-8c74-73877447c7d2.png">
+
+
+
