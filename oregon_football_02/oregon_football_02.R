@@ -9,7 +9,7 @@ library(cowplot)
 
 #### Question: How unknown is this Oregon offense ahead of their 2022 opener vs Georgia
 
-Sys.setenv(CFBD_API_KEY = "mtU85YjFNgHylNwj/RowQ+Tffwg65fhiZ7S7yhjb5z2bGb+5RqlnljDONQQ0VV3I")
+Sys.setenv(CFBD_API_KEY = Sys.getenv("CFBD_API_KEY"))
 
 pbp<-data.frame()
 

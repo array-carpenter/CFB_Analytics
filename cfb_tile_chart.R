@@ -14,7 +14,7 @@ library(ggridges)
 library(ggtext)
 library(RColorBrewer)
 
-Sys.setenv(CFBD_API_KEY = "mtU85YjFNgHylNwj/RowQ+Tffwg65fhiZ7S7yhjb5z2bGb+5RqlnljDONQQ0VV3I")
+Sys.setenv(CFBD_API_KEY = Sys.getenv("CFBD_API_KEY"))
 
 
 adv<-cfbd_stats_season_advanced(
