@@ -93,7 +93,7 @@ p5_plot <- p5_plot_df %>%
   ) +
   labs(
     y = NULL,
-    title = "Power 5 Passing EPA Distribution (Thru Week 7)",
+    title = "P4 Passing EPA Distribution (Thru Week 8)",
     caption = "Viz: @QuinnsWisdom, updated by Ray Carpenter | Data: cfbfastR",
     subtitle = "Ordered by Starting QB w/ Top Mean Passing EPA per Conference",
     tag = "Grey Dashed Line: P5 Pass EPA Median"
