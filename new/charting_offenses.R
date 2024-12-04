@@ -6,8 +6,8 @@ library(dplyr)
 options(vsc.plot = TRUE)
 
 # Define Power 4 conferences and target teams
-power_4_conferences <- c("SEC", "ACC", "Big 12", "Big Ten")
-highlight_teams <- c("Ohio State", "Penn State")
+power_4_conferences <- c("SEC", "ACC", "Big 12", "Big Ten","Conference USA","Mountain West","Sun Belt","Mid-American","American Athletic")
+highlight_teams <- c("SMU", "Clemson")
 
 # Pull team-level stats for the 2024 season and filter by Power 4 conferences
 team_stats <- cfbd_stats_season_team(year = 2024) %>%
@@ -37,7 +37,7 @@ offense_plot <- ggplot(offensive_stats, aes(x = passing_yards_per_game, y = rush
   scale_alpha_manual(values = c(`TRUE` = 1, `FALSE` = 0.2), guide = "none") +  # Full opacity for highlighted teams, reduced for others
   labs(
     title = "Passing vs Rushing Yards per Game (2024 Season)",
-    subtitle = "Highlighting Ohio State and Penn State (Power 4 Teams Only)",
+    subtitle = "Highlighting ACC Championship",
     x = "Passing Yards per Game",
     y = "Rushing Yards per Game"
   ) +
@@ -56,4 +56,4 @@ options(repr.plot.width = 16, repr.plot.height = 4)
 print(offense_plot)
 
 # Save the plot
-ggsave("passing_vs_rushing_yards_per_game_2024_offense_power_4.png", plot = offense_plot, width = 16, height = 4)
+ggsave("passing_vs_rushing_yards_per_game_2024_offense_all_conf_acc.png", plot = offense_plot, width = 16, height = 4)
